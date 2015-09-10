@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">States test</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="statelistkey">states123</string>
+    <string name="stateidkey">id123</string>
+    <string name="url">http://glaring-heat-6164.firebaseio.com/States</string>
+</resources>
